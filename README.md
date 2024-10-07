@@ -2,7 +2,7 @@
 
 a continuous piecewise polynomial fitting algorithm of any order with harmonics
 
-if any problem, please contact mingyuxiao@whu.edu.cn
+if any problem, please contact tyjin@sgg.whu.edu.cn ; mingyuxiao@whu.edu.cn
 
 main.m is the main file
 
